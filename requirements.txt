@@ -1,0 +1,6 @@
+PyMuPDF
+pillow
+requests
+openai
+python-dotenv
+discord.py
